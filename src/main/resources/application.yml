@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: localhost:9092
+  group-id: 1
+  topic: dbserver1.inventory.customers
